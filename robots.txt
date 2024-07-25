@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://trecorit.github.io/sitemap.html.gz
+Sitemap: https://trecorit.github.io/app/sitemap.html.gz
+Sitemap: https://trecorit.github.io/assets/sitemap.html.gz
+Sitemap: https://trecorit.github.io/css/sitemap.html.gz
+Sitemap: https://trecorit.github.io/includes/sitemap.html.gz
+Sitemap: https://trecorit.github.io/item/sitemap.html.gz
+Sitemap: https://trecorit.github.io/src/sitemap.html.gz
